@@ -57,7 +57,7 @@ def play_game(max_players, last_marble):
 
     return max(scores.values()) if scores else 0
 
-print(play_game(424, 7148200))#Part 2, I had to sit down and study the print outs of a few hundred lines to catch this. 
+print(play_game(424, 7148200))#Part 2, I had to sit down and study the print outs of a few hundred lines to catch this.
 
 
 
